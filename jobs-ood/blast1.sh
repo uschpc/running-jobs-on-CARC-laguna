@@ -10,5 +10,8 @@ module load usc
 module load blast-plus
 echo "Example blast start"
 sleep 20
-blastp -db /project/biodb/genbank/2021-03-01/swissprot -query data/blast/query.txt -out results/blast/results.txt -num_threads $SLURM_NTASKS
+mkdir -p results/blast/db
+wget https://ftp.ncbi.nlm.nih.gov/blast/db/swissprot.tar.gz -O results/blast/db/swissprot.tar.gz
+tar -xvzf results/blast/db/swissprot.tar.gz
+blastp -db results/blast/db/swissprot -query data/blast/query.txt -out results/blast/results.txt -num_threads $SLURM_NTASKS
 echo "Example blast end"
