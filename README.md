@@ -1,5 +1,5 @@
 [![CARC](./images/carc-logo.png 'CARC')](https://carc.usc.edu)
-# Running jobs on Laguna - Workshop
+# Running jobs on CARC Laguna - Workshop
 
 This repository contains preconfigured slurm job script examples, to run on USC CARC Laguna Cluster. 
 
