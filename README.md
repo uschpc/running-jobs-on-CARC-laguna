@@ -1,4 +1,5 @@
 [![CARC](./images/carc-logo.png 'CARC')](https://carc.usc.edu)
+[![SoCal Research Computing Alliance](./images/socal-rca-logo.png 'SoCal RCA')](https://uschpc.github.io/regional-computing-website)
 # Running jobs on CARC Laguna - Workshop
 
 This repository contains preconfigured slurm job script examples, to run on USC CARC Laguna Cluster. 
@@ -16,12 +17,12 @@ This repository contains preconfigured slurm job script examples, to run on USC 
 #### Duration: 1.5 hours
 #### Prerequisites: An understanding of fundamental CARC Laguna Cluster setup and CARC Laguna Ondemand.
 #### Suggested materials to satisfy prerequisites:
-* [Gettting started with Discovery](https://www.carc.usc.edu/user-guides/hpc-systems/discovery/getting-started-discovery.html)
+* [Gettting started with CARC Laguna](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna.html)
 
-* [CARC Ondemand](https://www.carc.usc.edu/user-guides/carc-ondemand.html)
+* [Laguna Ondemand](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/laguna-ondemand.html)
 
 
-#### Hardware Requirements: Desktop or laptop computer capable of running the latest version of Chrome or Firefox. 
+#### Hardware Requirements: Desktop or laptop computer capable of running any modern web browser. 
 
 #### Language: English
 
