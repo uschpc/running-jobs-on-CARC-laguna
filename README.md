@@ -60,7 +60,7 @@ Once in the terminal, clone this GitHub Repository
 
 ```
 module load laguna git
-git clone https://github.com/uschpc/running-jobs-on-laguna.git
+git clone https://github.com/uschpc/running-jobs-on-CARC-laguna.git
 ```
 
 In Jupyter, navigate to the example you are interested in, and step through the notebook. 
