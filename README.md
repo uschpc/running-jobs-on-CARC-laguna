@@ -41,7 +41,7 @@ When launching the Jupyter Lab, it is important to select the following
 * Set the number of hours to 4
 
 For the Laguna workshop, please do the above with the following change:
-* For Account (Laguna workshop), specify `hpcsuppt_613`
+* For Account (Laguna workshop), specify `hpcsuppt_613` if you have been added to the training project. Otherwise use the project on Laguna you belong to.
 
 
 The above settings are important to ensure you start a JupyterLab Server on a node that is located on the Discovery cluster and has slurm management engine installed and configured
