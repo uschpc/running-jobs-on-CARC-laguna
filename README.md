@@ -42,7 +42,7 @@ When launching the Jupyter Lab, it is important to select the following
 
 For the Laguna workshop, please do the above with the following change:
 * For Account (Laguna workshop), specify the project on Laguna you belong to.
-* To find out the project name, go to [User Portal](https://hpcaccount.usc.edu), login, click on the project you are a member of and find your "slurm_account"
+* To find out the project name, go to our [User Portal](https://hpcaccount.usc.edu), login, click on the project you are a member of and find your "slurm_account"
 
 
 The above settings are important to ensure you start a JupyterLab Server on a node that is located on the Discovery cluster and has slurm management engine installed and configured
